@@ -86,3 +86,32 @@ footer {
   width: 100%;
   bottom: 0;
 }
+
+#social-links {
+  margin-top: 10px;
+}
+#social-links a {
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+#header-logo {
+  width: 50px;
+  height: auto;
+  vertical-align: middle;
+  margin-right: 10px;
+}
+
+#header-logo-link {
+  display: flex;
+  margin-right: 20px;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+
+#header-logo-link h1 {
+  margin: 0px;
+  color: #ed1c24;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
